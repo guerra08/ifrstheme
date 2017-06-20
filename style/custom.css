@@ -1,0 +1,14 @@
+/* Custom CSS Settings
+-------------------------*/
+#header {
+		border-bottom: 1px solid #e8e3e3;
+		background: #41A24D;
+}
+h1, h2, h3, h4, h5, h6 {
+		font-weight: normal;
+		font-family: Century Gothic, Arial, Helvetica, sans-serif;
+		color: #c21c22;
+}
+a {
+		color: #c21c22;
+}
