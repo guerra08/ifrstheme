@@ -316,7 +316,7 @@ a:focus {
 		#header .header-top .navbar .container {
 				width:940px
 		}
-		
+
 		#header .header-top .navbar .nav > li {
 				background: url([[pix:theme|img-nav_divider]]) no-repeat right center;
 				padding: 0 2px 0 0;
@@ -327,7 +327,7 @@ a:focus {
 		}
 		#header .header-top .navbar .nav li:last-child {
 				background: none;
-		}		
+		}
 		#header .header-top .navbar .nav > li > a {
 				font-weight: normal;
 				padding: 25px 20px;
@@ -566,7 +566,7 @@ a:focus {
 	padding: 0 !important;
 }
 #footer a {
-	color: #ff6600;
+	color: #C21C22;
 }
 #footer .footer-main {
 		background: #2d2d2d;
@@ -758,7 +758,7 @@ input[type="password"],
 input[type="datetime"],
 input[type="datetime-local"],
 input[type="date"],
-input[type="month"],	
+input[type="month"],
 input[type="time"],
 input[type="week"],
 input[type="number"],
@@ -1435,7 +1435,7 @@ div.backup-section + form,
 		min-height: 120px;
 		color: #656565;
 		padding: 20px 0 0;
-		overflow: hidden;		
+		overflow: hidden;
 		position: relative;
 }
 .coursebox > .info > .coursename a {
@@ -1623,7 +1623,7 @@ table.rolecap thead tr th,
 		color: #fff;
 		background: #88b77b;
 }
-table.flexible thead th img, 
+table.flexible thead th img,
 .generaltable thead th img {
 		background: none repeat scroll 0 0;
 }
@@ -1681,23 +1681,23 @@ table.flexible tbody > tr:nth-child(2n+1) > th,
 .generaltable tbody > tr:nth-child(2n+1) > th {
 		background: #f7f7f7;
 }
-.user-enroller-panel .uep-search-results .users tbody tr:hover > td, 
-.user-enroller-panel .uep-search-results .cohorts tbody tr:hover > td, 
-table.grading-report tbody tr:hover > td, 
-.forumheaderlist tbody tr:hover > td, 
-.generaltable tbody tr:hover > td, 
-table.flexible tbody tr:hover > td, 
+.user-enroller-panel .uep-search-results .users tbody tr:hover > td,
+.user-enroller-panel .uep-search-results .cohorts tbody tr:hover > td,
+table.grading-report tbody tr:hover > td,
+.forumheaderlist tbody tr:hover > td,
+.generaltable tbody tr:hover > td,
+table.flexible tbody tr:hover > td,
 .category_subcategories tbody tr:hover > td,
-table#modules tbody tr:hover > td, 
-table#permissions tbody tr:hover > td, 
+table#modules tbody tr:hover > td,
+table#permissions tbody tr:hover > td,
 .user-enroller-panel .uep-search-results .users tbody tr:hover > th,
-.user-enroller-panel .uep-search-results .cohorts tbody tr:hover > th, 
-table.grading-report tbody tr:hover > th, 
-.forumheaderlist tbody tr:hover > th, 
+.user-enroller-panel .uep-search-results .cohorts tbody tr:hover > th,
+table.grading-report tbody tr:hover > th,
+.forumheaderlist tbody tr:hover > th,
 .generaltable tbody tr:hover > th,
-table.flexible tbody tr:hover > th, 
+table.flexible tbody tr:hover > th,
 .category_subcategories tbody tr:hover > th,
-table#modules tbody tr:hover > th, 
+table#modules tbody tr:hover > th,
 table#permissions tbody tr:hover > th {
 		background: #f2f2f2;
 }
@@ -1774,7 +1774,7 @@ table#permissions tbody tr:hover > th {
 		.dir-rtl .userprofile dl.list dd {
 				text-align: center;
 		}
-		
+
 }
 @media (min-width: 480px) {
 		.userprofile .userprofilebox .profilepicture {
@@ -1931,9 +1931,9 @@ input[size] {
 .report-eventlist-data-table {
 	overflow: auto;
 }
-.coursebox .content .teachers {	
+.coursebox .content .teachers {
 	padding-left: 20px;
-	margin-left: 130px;	
+	margin-left: 130px;
 	margin-top: 20px;
 }
 #page-mod-quiz-edit .add-menu-outer {
