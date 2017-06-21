@@ -39,3 +39,7 @@ td.submit input {
        -moz-box-shadow: none;
 	          box-shadow: none
 }
+a:focus {
+		color: #757d6d;
+		outline: none;
+}
