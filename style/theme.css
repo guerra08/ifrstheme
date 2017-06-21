@@ -857,7 +857,7 @@ input#id_submitbutton,
 input#id_submitbutton2,
 .path-admin .buttons input[type="submit"],
 td.submit input {
-		background: #ff6600;
+		background: #c21c22;
 		border: 0;
 		text-shadow: none;
 }

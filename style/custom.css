@@ -19,3 +19,8 @@ a {
 		color: #3b9436;
 		margin-bottom: 0;
 }
+td.submit input {
+		background: #c21c22;
+		border: 0;
+		text-shadow: none;
+}
