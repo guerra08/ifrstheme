@@ -13,5 +13,9 @@ a {
 		color: #c21c22;
 }
 #footer a {
-	color: #C21C22;
+	color: #c21c22;
+}
+#footer .footer-bootom p {
+		color: #3b9436;
+		margin-bottom: 0;
 }
